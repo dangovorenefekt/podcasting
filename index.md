@@ -1,3 +1,3 @@
 # Podcasting 101
 
-[[compression]]#
+[[audio]]#
