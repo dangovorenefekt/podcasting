@@ -1,7 +1,7 @@
 ---
 date: 2021-04-24T10:17
 tag:
-  - mixing
+  - podcasting/audio/mixing
 ---
 
 ### Контроли и параметри на компресора
