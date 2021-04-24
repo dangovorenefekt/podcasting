@@ -4,6 +4,5 @@ tags:
   - podcasting/audio/mixinng
 ---
 
-[[tape]]#
-[[mixing]]#
-#[[index]]
+[[mixing]]#   
+#[[index]]   
