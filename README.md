@@ -1,4 +1,4 @@
-# Podcast Zettelksten by Govoren efekt
+# Podcast Zettelkasten by Govoren efekt
 
 [neuron]: https://neuron.zettel.page
 [examples]: https://neuron.zettel.page/examples
